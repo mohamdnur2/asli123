@@ -336,9 +336,9 @@ var message = "zg";
          const embed = new Discord.RichEmbed()
      .setColor("GOLD")
      .setTitle('Heart BOT Link Click Here .!')
-     .setURL('https://discordapp.com/api/oauth2/authorize?client_id=498254846819041287&permissions=8&scope=bot')
+     .setURL('https://discordapp.com/oauth2/authorize?client_id=510747725533413376&scope=bot&permissions=36760572')
   .setDescription(`**
-  New Server Add King Bot ✅
+  New Server Add Heart Bot ✅
 اسم السيرفر: ${guild.name}
 صاحب السيرفر: ${guild.owner}**`);
 client.channels.get("465340887279468564").sendEmbed(embed)
@@ -565,7 +565,7 @@ client.on('message', function(message) { // Leaked by [ @!- Jack#0359 ]
           var mmmmEmbed = new Discord.RichEmbed()
           .setAuthor(client.user.username)
           .setTitle('-  اضغط هنا !.')
-          .setURL(`https://discordapp.com/api/oauth2/authorize?client_id=498254846819041287&permissions=8&scope=bot`)
+          .setURL(`https://discordapp.com/oauth2/authorize?client_id=510747725533413376&scope=bot&permissions=36760572`)
           .setThumbnail(client.user.avatarURL)
           .setFooter(`- Requested By: ${message.author.tag}`,message.author.avatarURL);
           message.channel.send(mmmmEmbed)
@@ -807,9 +807,9 @@ vv.on("collect", r => {
  .setThumbnail(msg.author.avatarURL)
  .setTitle(`Welcome To ${msg.guild.name}`)
            .setFooter(`- Requested By: ${msg.author.tag}`,msg.author.avatarURL)
-  .setURL('https://discordapp.com/api/oauth2/authorize?client_id=498254846819041287&permissions=8&scope=bot')
+  .setURL('https://discordapp.com/oauth2/authorize?client_id=510747725533413376&scope=bot&permissions=36760572')
 .setDescription(`**' King Bot Discord.\n$help - لرؤية الأوامر :comet: \n$inv - لدعوة البوت :wine_glass: \n معلومات عن البوت :thinking: \n بوت ديسكورت متكامل :soccer: :microphone: :earth_americas: \nيوجد داخل البوت خاصية منع التهكير مجانا وبسهوله تامة :scream: \nصيانة دورية :stopwatch: :wrench: \n 24 ساعة :point_up:
- \nاضافات يومية :link: \n الدعم الفني للمساعدةة : https://discord.gg/QfB8p2S  :rose:  \n وشكرا لكم :lizard: **`)
+ \nاضافات يومية :link: \n الدعم الفني للمساعدةة : https://discord.gg/AaVCBrV  :rose:  \n وشكرا لكم :lizard: **`)
 
 
  .setTimestamp()
