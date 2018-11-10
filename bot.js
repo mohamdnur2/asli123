@@ -21,7 +21,7 @@ var fs = require('fs');
 
 client.on('ready', function(){ // Leaked by [ @!- Jack#0359 ]
     var ms = 30000 ;
-    var setGame = [`Heart BOTS `,` Heart BOT By !- Jack#0359
+    var setGame = [`Heart BOTS `,` Heart BOT |  $help | $inv
  !`];
     var i = -1;
     var j = 0;
