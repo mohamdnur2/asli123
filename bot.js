@@ -808,7 +808,7 @@ vv.on("collect", r => {
  .setTitle(`Welcome To ${msg.guild.name}`)
            .setFooter(`- Requested By: ${msg.author.tag}`,msg.author.avatarURL)
   .setURL('https://discordapp.com/oauth2/authorize?client_id=510747725533413376&scope=bot&permissions=36760572')
-.setDescription(`**' King Bot Discord.\n$help - لرؤية الأوامر :comet: \n$inv - لدعوة البوت :wine_glass: \n معلومات عن البوت :thinking: \n بوت ديسكورت متكامل :soccer: :microphone: :earth_americas: \nيوجد داخل البوت خاصية منع التهكير مجانا وبسهوله تامة :scream: \nصيانة دورية :stopwatch: :wrench: \n 24 ساعة :point_up:
+.setDescription(`**' Heart Bot Discord.\n$help - لرؤية الأوامر :comet: \n$inv - لدعوة البوت :wine_glass: \n معلومات عن البوت :thinking: \n بوت ديسكورت متكامل :soccer: :microphone: :earth_americas: \nيوجد داخل البوت خاصية منع التهكير مجانا وبسهوله تامة :scream: \nصيانة دورية :stopwatch: :wrench: \n 24 ساعة :point_up:
  \nاضافات يومية :link: \n الدعم الفني للمساعدةة : https://discord.gg/AaVCBrV  :rose:  \n وشكرا لكم :lizard: **`)
 
 
